@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+    <string name="cntnt_dscrptn_wthr_hdr" />
+    <string name="tv_wthr_location">Moscow</string>
+    <string name="tv_current_date">Thur, 12 march, 12:54 PM</string>
+    <string name="tv_wthr_value">+5</string>
+    <string name="ti_days">Days</string>
+    <string name="ti_hours">Hours</string>
+    <string name="tv_wthr_dscrptn">Overcast, light rain</string>
+    <string name="tv_wthr_wing_info">Wing 8 m/s, SN</string>
+    <string name="ico_wthr_cntnt_dscrptn" translatable="false"/>
+    <string name="tv_wthrhours_hour">15:00</string>
+    <string name="tv_wthrhours_value">+5</string>
+    <string name="tv_wthrhours_wing">6 m/s SV</string>
+</resources>
