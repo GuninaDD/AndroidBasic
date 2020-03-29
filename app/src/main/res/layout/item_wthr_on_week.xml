@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_wthr_onWeek_day"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/spacing_xxxsmall"
+        android:text="@string/tv_wthr_onWeek_day"
+        android:textColor="@color/design_default_color_secondary"
+        android:textSize="@dimen/textsize_xlarge" />
+
+    <TextView
+        android:id="@+id/tv_wthr_onWeek_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/spacing_xxxsmall"
+        android:text="@string/tv_wthr_value"
+        android:textSize="@dimen/textsize_xxlarge" />
+
+    <TextView
+        android:id="@+id/tv_wthr_onWeek_wing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/spacing_xxxsmall"
+        android:text="@string/tv_wthr_wing_info"
+        android:textSize="@dimen/textsize_xlarge" />
+
+    <TextView
+        android:id="@+id/tv_wthr_onWeek_pressure"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/spacing_xxxsmall"
+        android:text="@string/tv_wthr_pressure_info"
+        android:textSize="@dimen/textsize_xlarge" />
+</LinearLayout>

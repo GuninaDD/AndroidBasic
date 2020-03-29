@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+    <string name="cntnt_dscrptn_wthr_hdr" />
+    <string name="tv_wthr_location">Moscow</string>
+    <string name="tv_current_date">Thur, 12 march, 12:54 PM</string>
+    <string name="tv_wthr_value">+5</string>
+    <string name="ti_days">Days</string>
+    <string name="ti_hours">Hours</string>
+    <string name="tv_wthr_dscrptn">Overcast, light rain</string>
+    <string name="tv_wthr_wing_info">Wing 8 m/s, SN</string>
+    <string name="tv_wthr_pressure_info">Pressure 100 mm in hg</string>
+    <string name="ico_wthr_cntnt_dscrptn" translatable="false" />
+    <string name="tv_wthrhours_hour">15:00</string>
+    <string name="tv_wthrhours_value">+5</string>
+    <string name="tv_wthrhours_wing">6 m/s SV</string>
+    <string name="TownName">Moscow</string>
+    <string name="TownInfo">Moscow, Russia</string>
+    <string name="town_name_2">Berlin</string>
+    <string name="town_info_2">Berlin, Germany</string>
+    <string name="cb_wing">wing enabled</string>
+    <string name="cb_pressure">pressure enabled</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_units">Units</string>
+    <string name="settings_refreshing">Period of refreshing</string>
+    <string name="settings_time_format">24 hours format</string>
+    <string name="settings_gps">Using GPS</string>
+    <string name="settings_current_location">Show current location</string>
+    <string name="btn_selectTown">OK</string>
+    <string name="btn_info">INFO</string>
+    <string name="tv_onWeek">Weather on week</string>
+    <string name="tv_wthr_onWeek_day">Mon</string>
+
+</resources>
