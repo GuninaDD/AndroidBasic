@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Weather In World</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="menu_home" translatable="false">Home</string>
+    <string name="menu_gallery" translatable="false">Settings</string>
+    <string name="menu_slideshow" translatable="false">Exit</string>
+
+    <string name="home_second" translatable="false">Home Second</string>
+    <string name="cntnt_dscrptn_wthr_hdr" />
+    <string name="tv_wthr_location">Moscow</string>
+    <string name="tv_current_date">Thur, 12 march, 12:54 PM</string>
+    <string name="tv_wthr_value">+20.00</string>
+    <string name="ti_days">Days</string>
+    <string name="ti_hours">Hours</string>
+    <string name="tv_wthr_dscrptn">Overcast, light rain</string>
+    <string name="tv_wthr_wind_info">Wind 8 m/s, SN</string>
+    <string name="tv_wthr_pressure_info">Pressure 100 mm in hg</string>
+    <string name="ico_wthr_cntnt_dscrptn" translatable="false" />
+    <string name="tv_wthrhours_hour">15:00</string>
+    <string name="tv_wthrhours_value">+5</string>
+    <string name="tv_wthrhours_wind">6 m/s SV</string>
+    <string name="TownName">Moscow</string>
+    <string name="TownInfo">Moscow, Russia</string>
+    <string name="town_name_2">Berlin</string>
+    <string name="town_info_2">Berlin, Germany</string>
+    <string name="cb_wind">wind enabled</string>
+    <string name="cb_pressure">pressure enabled</string>
+    <string name="settings_units">Units</string>
+    <string name="settings_refreshing">Period of refreshing</string>
+    <string name="settings_time_format">24 hours format</string>
+    <string name="settings_gps">Using GPS</string>
+    <string name="settings_current_location">Show current location</string>
+    <string name="btn_selectTown">OK</string>
+    <string name="btn_info">INFO</string>
+    <string name="tv_onWeek">Weather on 5 days</string>
+    <string name="tv_wthr_onWeek_day">Mon</string>
+    <string name="til_town">City name with a capital letter</string>
+    <string name="til_town_error_msg">Incorrect name</string>
+    <string name="confirm_select_town">Are you sure?</string>
+    <string name="confirm_action">Yes</string>
+    <string name="non_confirm_action">No</string>
+    <string name="place_not_found">Place not found</string>
+    <string name="reselect_place">Please, select other place</string>
+    <string name="tv_wthr_onWeek_dscrptn">Discription</string>
+    <string name="btn_history">HISTORY</string>
+    <string name="network_error">No network</string>
+    <string name="five_days_wthr_error">Error of load five days weather, try again</string>
+    <string name="weather_sunny" translatable="false">&#xf00d;</string>
+    <string name="weather_clear_night" translatable="false">&#xf02e;</string>
+    <string name="weather_foggy" translatable="false">&#xf014;</string>
+    <string name="weather_cloudy" translatable="false">&#xf013;</string>
+    <string name="weather_rainy" translatable="false">&#xf019;</string>
+    <string name="weather_snowy" translatable="false">&#xf01b;</string>
+    <string name="weather_thunder" translatable="false">&#xf01e;</string>
+    <string name="weather_drizzle" translatable="false">&#xf01c;</string>
+    <string name="content_description" />
+</resources>

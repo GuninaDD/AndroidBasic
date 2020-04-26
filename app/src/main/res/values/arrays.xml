@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string-array name="navigation_drawer_items">
+        <item>Town</item>
+        <item>Settings</item>
+        <item>Exit</item>
+    </string-array>
+
+    <string-array name="cities">
+        <item>A Coruña</item>
+        <item>Aachen</item>
+        <item>Aalborg</item>
+        <item>Aarhus</item>
+        <item>Aba</item>
+        <item>Abadan</item>
+        <item>Abaetetuba</item>
+        <item>Abakan</item>
+        <item>Abbotabad</item>
+        <item>Abbotsford</item>
+        <item>Abengourou</item>
+        <item>Abeokuta</item>
+        <item>Aberdeen</item>
+        <item>Abha</item>
+        <item>Abidjan</item>
+        <item>Abiko</item>
+        <item>Abilene</item>
+        <item>Abohar</item>
+        <item>Abu Al-Khaseeb</item>
+        <item>Abu Dhabi</item>
+        <item>Abu Ghraib</item>
+        <item>Abuja</item>
+        <item>Açailândia</item>
+        <item>Acapulco</item>
+        <item>Acarigua</item>
+        <item>Accra</item>
+        <item>Achalpur</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Overcast, light rain</item>
+        <item>Sunshine</item>
+        <item>Overcast</item>
+        <item>Rain</item>
+        <item>Snow, sunshine</item>
+    </string-array>
+
+    <string-array name="weekly_log">
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thur</item>
+        <item>Fri</item>
+        <item>Sat</item>
+        <item>Sun</item>
+    </string-array>
+
+</resources>
