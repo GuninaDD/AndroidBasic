@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="cntnt_dscrptn_wthr_hdr" />
+    <string name="tv_wthr_location">Москва</string>
+    <string name="tv_current_date">Четверг, 12 марта, 12:54</string>
+    <string name="tv_wthr_value">+20.00</string>
+    <string name="ti_days">По дням</string>
+    <string name="ti_hours">По часам</string>
+    <string name="tv_wthr_dscrptn">Пасмурно, небольшой дождь</string>
+    <string name="tv_wthr_wind_info">Ветер 8 м/с, ЮЗ</string>
+    <string name="tv_wthr_pressure_info">Атмосферное давление 100 мм рт. столба</string>
+    <string name="tv_wthrhours_hour">15:00</string>
+    <string name="tv_wthrhours_value">+5</string>
+    <string name="tv_wthrhours_wind">6 м/с ЮЗ</string>
+    <string name="TownName">Москва</string>
+    <string name="TownInfo">Москва, Россия</string>
+    <string name="town_name_2">Берлин</string>
+    <string name="town_info_2">Берлин, Германия</string>
+    <string name="cb_wind">скорость ветра</string>
+    <string name="cb_pressure">давление</string>
+    <string name="settings_units">Единицы измерения</string>
+    <string name="settings_refreshing">Период обновления</string>
+    <string name="settings_time_format">24-часовой формат</string>
+    <string name="settings_gps">Использовать GPS</string>
+    <string name="settings_current_location">Показывать текущее местоположение</string>
+    <string name="btn_selectTown">ОК</string>
+    <string name="btn_info">Подробнее</string>
+    <string name="tv_onWeek">Погода на 5 дней</string>
+    <string name="tv_wthr_onWeek_day">Пн</string>
+    <string name="til_town">Название города с большой буквы</string>
+    <string name="til_town_error_msg">Недопустимое имя</string>
+    <string name="confirm_select_town">Вы уверены?</string>
+    <string name="confirm_action">Да</string>
+    <string name="non_confirm_action">Нет</string>
+    <string name="place_not_found">Город не найден</string>
+    <string name="reselect_place">Пожалуйста, выберите другой город</string>
+    <string name="tv_wthr_onWeek_dscrptn">Описание</string>
+    <string name="btn_history">HISTORY</string>
+    <string name="network_error">No network</string>
+    <string name="five_days_wthr_error">Error of load five days weather, try again</string>
+    <string name="content_description" />
+</resources>
