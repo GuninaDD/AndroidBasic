@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_wthr_onWeek_day"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/spacing_xxxsmall"
+        android:layout_marginTop="@dimen/spacing_xxxsmall"
+        android:layout_marginEnd="@dimen/spacing_xxxsmall"
+        android:gravity="center"
+        android:text="@string/tv_wthr_onWeek_day"
+        android:textColor="@color/design_default_color_secondary"
+        android:textSize="@dimen/textsize_small" />
+
+    <TextView
+        android:id="@+id/tv_wthr_onWeek_hour"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/spacing_xxxsmall"
+        android:gravity="center"
+        android:text="@string/tv_current_date"
+        android:textColor="@color/design_default_color_secondary"
+        android:textSize="@dimen/textsize_small" />
+
+    <TextView
+        android:id="@+id/tv_wthr_onWeek_dscrptn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/spacing_xxxsmall"
+        android:gravity="center"
+        android:text="@string/tv_wthr_onWeek_dscrptn"
+        android:textColor="@color/colorText"
+        android:textSize="@dimen/textsize_small" />
+
+    <TextView
+        android:id="@+id/tv_wthr_onWeek_value"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/spacing_xxxsmall"
+        android:layout_marginTop="@dimen/spacing_xxxsmall"
+        android:layout_marginEnd="@dimen/spacing_xxxsmall"
+        android:layout_marginBottom="@dimen/spacing_xxxsmall"
+        android:gravity="center"
+        android:text="@string/tv_wthr_value"
+        android:textSize="@dimen/textsize_small" />
+
+    <TextView
+        android:id="@+id/tv_wthr_onWeek_wind"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/spacing_xxxsmall"
+        android:layout_marginEnd="@dimen/spacing_xxxsmall"
+        android:gravity="center"
+        android:text="@string/tv_wthr_wind_info"
+        android:textSize="@dimen/textsize_small" />
+
+    <TextView
+        android:id="@+id/tv_wthr_onWeek_pressure"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/spacing_xxxsmall"
+        android:layout_marginTop="@dimen/spacing_xxxsmall"
+        android:layout_marginEnd="@dimen/spacing_xxxsmall"
+        android:gravity="center"
+        android:text="@string/tv_wthr_pressure_info"
+        android:textSize="@dimen/textsize_small" />
+</LinearLayout>

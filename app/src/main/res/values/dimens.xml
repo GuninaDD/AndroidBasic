@@ -1,0 +1,49 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- Text sizes -->
+
+    <dimen name="textsize_xxsmall">8sp</dimen>
+    <dimen name="textsize_xsmall">10sp</dimen>
+    <dimen name="textsize_small">12sp</dimen>
+    <dimen name="textsize_medium">14sp</dimen>
+    <dimen name="textsize_large">16sp</dimen>
+    <dimen name="textsize_xlarge">18sp</dimen>
+    <dimen name="textsize_xxlarge">27sp</dimen>
+    <dimen name="textsize_location_wthr">35sp</dimen>
+    <dimen name="textsize_wthr_value">55sp</dimen>
+
+    <!-- Paddings/margins -->
+
+    <dimen name="padding_frame">1dp</dimen>
+    <dimen name="spacing_xxxsmall">5dp</dimen>
+    <dimen name="spacing_xxsmall">10dp</dimen>
+    <dimen name="spacing_xsmall">15dp</dimen>
+    <dimen name="spacing_small">20dp</dimen>
+    <dimen name="spacing_medium">25dp</dimen>
+    <dimen name="spacing_large">30dp</dimen>
+    <dimen name="spacing_xlarge">35dp</dimen>
+    <dimen name="spacing_xxlarge">40dp</dimen>
+    <dimen name="spacing_xxxlarge">50dp</dimen>
+    <dimen name="spacing_xxxxlarge">65dp</dimen>
+    <dimen name="spacing_xxxxxlarge">95dp</dimen>
+
+
+    <!-- Views sizes -->
+
+    <dimen name="size_loading_bar">100dp</dimen>
+    <dimen name="size_loading_bar_small">50dp</dimen>
+    <dimen name="size_logo">100dp</dimen>
+    <dimen name="height_icon_wthr">100dp</dimen>
+    <dimen name="width_icon_wthr">200dp</dimen>
+    <dimen name="height_search">70dp</dimen>
+    <dimen name="height_decorator">30dp</dimen>
+    <dimen name="width_left_drawer">240dp</dimen>
+    <dimen name="size_wthr_logo">75dp</dimen>
+    <dimen name="size_wthr_logo_small">15dp</dimen>
+</resources>

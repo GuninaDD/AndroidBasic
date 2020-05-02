@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "298680235637",
+    "firebase_url": "https://weatherinworld.firebaseio.com",
+    "project_id": "weatherinworld",
+    "storage_bucket": "weatherinworld.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298680235637:android:c5c49687a3c7a81de6ea3c",
+        "android_client_info": {
+          "package_name": "com.geekbrains.weatherinworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298680235637-r1fm7kiht5a385vbb38t9in59at88c6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPWB9OlQ52z2OQ-5b0kZoqw9q0dLun--U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298680235637-r1fm7kiht5a385vbb38t9in59at88c6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

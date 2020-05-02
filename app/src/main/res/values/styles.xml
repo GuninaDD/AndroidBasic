@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="LightMediumText">
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:textSize">@dimen/textsize_xlarge</item>
+    </style>
+
+    <style name="DarkText">
+        <item name="android:textColor">@color/colorTextDark</item>
+    </style>
+
+    <style name="LightText">
+        <item name="android:textColor">@color/colorText</item>
+    </style>
+
+    <style name="CheckBoxes">
+        <item name="android:textColorLink">@color/colorHighlight</item>
+        <item name="android:textSize">@dimen/textsize_medium</item>
+    </style>
+
+    <style name="Buttons">
+        <item name="android:background">@color/design_default_color_secondary</item>
+        <item name="android:textSize">@dimen/textsize_large</item>
+    </style>
+
+</resources>
