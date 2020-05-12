@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btn_history">HISTORY</string>
+    <string name="network_error">No network</string>
+    <string name="five_days_wthr_error">Error of load five days weather, try again</string>
+    <string name="content_description" />
+    <string name="btn_current_location">Show weather for current location</string>
+    <string name="btn_sign_out">SIGN OUT</string>
+</resources>
