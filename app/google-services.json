@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "298680235637",
+    "firebase_url": "https://weatherinworld.firebaseio.com",
+    "project_id": "weatherinworld",
+    "storage_bucket": "weatherinworld.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298680235637:android:c5c49687a3c7a81de6ea3c",
+        "android_client_info": {
+          "package_name": "com.geekbrains.weatherinworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298680235637-m24ce4tio7k0eobfvsvf8k3l1h4inp2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geekbrains.weatherinworld",
+            "certificate_hash": "b579e6d46ad362e16256c875975f76dfab780360"
+          }
+        },
+        {
+          "client_id": "298680235637-r1fm7kiht5a385vbb38t9in59at88c6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPWB9OlQ52z2OQ-5b0kZoqw9q0dLun--U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298680235637-cp3la5hbcuuljg7nqsdl049k031satu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298680235637:android:f9c2178b319baa51e6ea3c",
+        "android_client_info": {
+          "package_name": "com.geekbrains.weatherinworld.withlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298680235637-moogtplaqqg5efih3cuta73b05d33oic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geekbrains.weatherinworld.withlocation",
+            "certificate_hash": "b579e6d46ad362e16256c875975f76dfab780360"
+          }
+        },
+        {
+          "client_id": "298680235637-r1fm7kiht5a385vbb38t9in59at88c6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPWB9OlQ52z2OQ-5b0kZoqw9q0dLun--U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298680235637-cp3la5hbcuuljg7nqsdl049k031satu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298680235637:android:69dee81001d00eaee6ea3c",
+        "android_client_info": {
+          "package_name": "com.geekbrains.weatherinworld.withoutlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298680235637-deqij2i2t1dbes8a3l41hd8h3qf2av1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geekbrains.weatherinworld.withoutlocation",
+            "certificate_hash": "b579e6d46ad362e16256c875975f76dfab780360"
+          }
+        },
+        {
+          "client_id": "298680235637-r1fm7kiht5a385vbb38t9in59at88c6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPWB9OlQ52z2OQ-5b0kZoqw9q0dLun--U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298680235637-cp3la5hbcuuljg7nqsdl049k031satu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
